@@ -1,13 +1,13 @@
-﻿int Sum( int a)
-{
-  int  rezult = a / 10;
-  rezult = rezult % 10; 
+﻿// int Sum( int a)
+// {
+//   int  rezult = a / 10;
+//   rezult = rezult % 10; 
 
-  return rezult;
-}
+//   return rezult;
+// }
  
- int a =  456;
+//  int a =  456;
   
- Console.WriteLine(Sum(a));
+//  Console.WriteLine(Sum(a));
 
- 
+
