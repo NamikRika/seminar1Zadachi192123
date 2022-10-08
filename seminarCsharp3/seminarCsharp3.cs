@@ -112,3 +112,30 @@
 // Напишите программу, которая принимает на вход число (N) и выдаёт таблицу кубов чисел от 1 до N.
 // 3 -> 1, 8, 27
 // 5 -> 1, 8, 27, 64, 125
+
+Console.WriteLine("Задача 23 \n Напишите программу, которая принимает на вход число (N) \n и выдаёт таблицу кубов чисел от 1 до N");    
+Console.WriteLine();    
+Console.WriteLine("Решение");
+
+
+// void tablicaKubov (double chisloN)
+// {
+
+//         Console.WriteLine();    
+//         Console.WriteLine("  " + "Число" + "  " + "Куб");
+
+//         for (int i = 1; i <= chisloN; i++)
+//         {
+//                 double znacheniyeI = Convert.ToDouble(i);
+//                 double chisloKuba = Math.Pow(znacheniyeI , 3);
+//                 Console.WriteLine("    " + i + "     " + chisloKuba);
+//         }
+
+// }
+
+// Console.Write("Введите число ");    
+// double chisloNn = Convert.ToDouble(Console.ReadLine());
+
+// tablicaKubov(chisloNn);
+
+
